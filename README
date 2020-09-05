@@ -1,5 +1,7 @@
 # TO UPDATE
 
+Use MAD to remove outliers
+
 Dickey-Fuller Test
 Use statsmodel regressor for OLS, GLS, WLS, and their differences
 Beta Calculation
